@@ -1,0 +1,28 @@
+name: Chris Marquardt
+favicon: null
+layout_spectrum: 0.6993761714547873
+typography_spectrum: 0.9379746380727738
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.84600042225793
+  lightness: 0.5126033080741763
+  saturation: 0.2034288728609681
+  rhythmicContrast: 0.7119877873919904
+purpose: []
